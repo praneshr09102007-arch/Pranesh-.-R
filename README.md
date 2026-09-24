@@ -1,5 +1,4 @@
-
-  <div align="center">
+ <div align="center">
 
   <!-- ANIMATED BANNER -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:DC2626,100:0a0a0a&height=20
@@ -307,3 +306,264 @@
 
   </div>
   ```
+
+  What was changed:
+
+  1. Converted all Markdown headings (###), bullet lists (-), blockquotes (>), and bold text (**) inside
+     <table>...</table> into valid HTML tags (<h3>, <ul><li>, <blockquote>, <b>).
+  2. Cleaned up headings inside <div align="center"> into <h2> tags.
+  3. Extracted the bash and json code blocks cleanly outside of the nested HTML wrappers.
+
+✻ Baked for 29s · done 10:59 PM
+
+❯ still the code is shown not the design
+
+● I see the issue now. GitHub's Markdown parser is very strict about mixing HTML and Markdown. When you open an HTML tag
+  like <div> or <table>, everything inside must be pure HTML — no Markdown headings (##), no triple backtick code
+  blocks.
+
+  Let me create a completely fixed version that GitHub will render properly:
+
+● Write(README.md)
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ Overwrite file
+ README.md
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+  36
+  37  ---
+  38
+  39 -<!-- ABOUT ME SECTION -->
+  39  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+      width="900">
+  40
+  42 -<div align="center">
+  43 -
+  41  ## 🧠 `whoami`
+  42
+  43  ```bash
+  44  $ cat pranesh.json
+  45  ```
+  46
+  50 -</div>
+  51 -
+  47  ```json
+  48  {
+  49    "name"       : "Pranesh R",
+ ...
+   61
+   62  ---
+   63
+   69 -<!-- TECH STACK SECTION -->
+   64 +## 🛠 Tech Arsenal
+   65 +
+   66  <div align="center">
+   67
+   72 -## 🛠 Tech Arsenal
+   68 +**💬 Languages**
+   69
+   74 -</div>
+   70 +<img src="https://skillicons.dev/icons?i=py,c,cpp,js&theme=dark&perline=4" />
+   71
+   76 -<table align="center" width="90%">
+   77 -<tr>
+   78 -<td align="center" width="50%">
+   72 +**🎨 Frontend**
+   73
+   80 -### 💬 Languages
+   81 -<p>
+   82 -  <img src="https://skillicons.dev/icons?i=py,c,cpp,js&theme=dark&perline=4" />
+   83 -</p>
+   74 +<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=4" />
+   75
+   85 -### 🎨 Frontend
+   86 -<p>
+   87 -  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=4" />
+   88 -</p>
+   76 +**⚙ Backend & DB**
+   77
+   90 -</td>
+   91 -<td align="center" width="50%">
+   78 +<img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark&perline=4" />
+   79
+   93 -### ⚙ Backend & DB
+   94 -<p>
+   95 -  <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark&perline=4" />
+   96 -</p>
+   80 +**🔧 Tools & Platforms**
+   81
+   98 -### 🔧 Tools & Platforms
+   99 -<p>
+  100 -  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" />
+  101 -</p>
+   82 +<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" />
+   83
+  103 -</td>
+  104 -</tr>
+  105 -</table>
+   84 +</div>
+   85
+   86  ---
+   87
+  109 -<!-- PROJECTS SECTION -->
+  110 -<div align="center">
+  111 -
+   88  ## 🚀 Flagship Projects
+   89
+  114 -</div>
+  115 -
+  116 -<table align="center" width="90%">
+  117 -<tr>
+  118 -
+  119 -<td width="50%" valign="top">
+  120 -
+  121 -<div align="center">
+  122 -
+   90  ### ⚡ LIFI — Light Fidelity System
+   91
+   92  <img src="https://img.shields.io/badge/Status-Active-DC2626?style=flat-square&logo=statuspage&logoColor=white" /
+       >
+   93  <img src="https://img.shields.io/badge/Type-Hardware%20%2B%20Software-0a0a0a?style=flat-square" />
+   94
+  128 -</div>
+  129 -
+   95  > 🔦 A **text and audio transferring system** using Light technology (LiFi) — transmitting data through light wa
+       ves instead of WiFi radio signals.
+   96
+   97  **Key Highlights:**
+ ...
+  100  - ⚡ High-speed, secure communication
+  101  - 🛡 No RF interference
+  102
+  138 -<div align="center">
+  139 -  <a href="https://github.com/praneshr09102007-arch/LIFI---Text-and-audio-transferring-system">
+  140 -    <img src="https://img.shields.io/badge/View%20Source-GitHub-EF4444?style=for-the-badge&logo=github&logoColor
+      -=white&labelColor=0a0a0a" />
+  141 -  </a>
+  142 -</div>
+  103 +<a href="https://github.com/praneshr09102007-arch/LIFI---Text-and-audio-transferring-system">
+  104 +  <img src="https://img.shields.io/badge/View%20Source-GitHub-EF4444?style=for-the-badge&logo=github&logoColor=w
+      +hite&labelColor=0a0a0a" />
+  105 +</a>
+  106
+  144 -</td>
+  107 +---
+  108
+  146 -<td width="50%" valign="top">
+  147 -
+  148 -<div align="center">
+  149 -
+  109  ### 🌊 AAZHI
+  110
+  111  <img src="https://img.shields.io/badge/Status-In%20Development-f59e0b?style=flat-square&logo=statuspage&logoColo
+       r=white" />
+  112  <img src="https://img.shields.io/badge/Type-Software-0a0a0a?style=flat-square" />
+  113
+  155 -</div>
+  156 -
+  114  > 🌊 **AAZHI** *(Tamil: Ocean)* — A project diving deep into innovation, built with passion and precision.
+  115
+  116  **Key Highlights:**
+ ...
+  119  - 🔭 Exploring new frontiers
+  120  - 📐 Clean code principles
+  121
+  165 -<div align="center">
+  166 -  <a href="https://github.com/praneshr09102007-arch/AAZHI">
+  167 -    <img src="https://img.shields.io/badge/View%20Source-GitHub-EF4444?style=for-the-badge&logo=github&logoColor
+      -=white&labelColor=0a0a0a" />
+  168 -  </a>
+  169 -</div>
+  122 +<a href="https://github.com/praneshr09102007-arch/AAZHI">
+  123 +  <img src="https://img.shields.io/badge/View%20Source-GitHub-EF4444?style=for-the-badge&logo=github&logoColor=w
+      +hite&labelColor=0a0a0a" />
+  124 +</a>
+  125
+  171 -</td>
+  172 -
+  173 -</tr>
+  174 -</table>
+  175 -
+  126  ---
+  127
+  178 -<!-- GITHUB STATS -->
+  179 -<div align="center">
+  180 -
+  128  ## 📊 GitHub Analytics
+  129
+  183 -<br/>
+  130 +<div align="center">
+  131
+  132  <img src="https://github-readme-stats-fast.vercel.app/api?username=praneshr09102007-arch&show_icons=true&count_p
+       rivate=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_ra
+       dius=10" width="48%" />
+  133  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=praneshr09102007-arch&layout=compa
+       ct&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=10&langs_count=6" widt
+       h="38%" />
+ ...
+  138
+  139  <br/><br/>
+  140
+  194 -<!-- Activity Graph -->
+  141  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praneshr09102007-arch&bg_color=0a0a0a&c
+       olor=ef4444&line=dc2626&point=ffffff&area=true&area_color=dc2626&hide_border=false&border_color=ef4444&radius=10
+       " width="90%" />
+  142
+  143  </div>
+  144
+  145  ---
+  146
+  201 -<!-- SNAKE CONTRIBUTION GRAPH -->
+  202 -<div align="center">
+  203 -
+  147  ## 🐍 Contribution Snake
+  148
+  149 +<div align="center">
+  150 +
+  151  <picture>
+  152    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praneshr09102007-arch/p
+       raneshr09102007-arch/output/github-contribution-grid-snake-dark.svg" />
+  153    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praneshr09102007-arch/
+       praneshr09102007-arch/output/github-contribution-grid-snake.svg" />
+ ...
+  158
+  159  ---
+  160
+  216 -<!-- CURRENT FOCUS -->
+  217 -<div align="center">
+  218 -
+  161  ## 🎯 Current Focus
+  162
+  221 -</div>
+  222 -
+  163  ```python
+  164  class Pranesh:
+  165      def __init__(self):
+ ...
+  179
+  180  ---
+  181
+  242 -<!-- QUOTE -->
+  243 -<div align="center">
+  244 -
+  182  ## 💭 Dev Quote of the Day
+  183
+  184 +<div align="center">
+  185 +
+  186  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&color=ef4444" width
+       ="80%" />
+  187
+  188  </div>
+  189
+  190  ---
+  191
+  253 -<!-- WAVE FOOTER -->
+  254 -<div align="center">
+  255 -
+  192  ## 🤝 Let's Connect & Collaborate
+  193
+  194 +<div align="center">
+  195 +
+  196  <p>
+  197    <a href="https://www.linkedin.com/in/pranesh301/">
+  198      <img src="https://skillicons.dev/icons?i=linkedin" width="52" />
