@@ -49,7 +49,7 @@
 
   ## 🧠 `whoami`
 
-  
+  ```bash
   $ cat pranesh.json
 
   {
