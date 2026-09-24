@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:ef4444&height=230&section=header&text=Pranesh%20R&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Lovely%20Professional%20University&descAlignY=58&descSize=18" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7f1d1d,100:ef4444&height=250&section=header&text=Pranesh%20R&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Lovely%20Professional%20University&descAlignY=58&descSize=18" width="100%" alt="Header" />
 </p>
 
 <p align="center">
@@ -21,7 +21,9 @@
   <a href="https://pranesh-profile.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Visit-ef4444?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Portfolio" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=3" width="100%" alt="divider" />
+</p>
 
 <!-- ABOUT -->
 <h2 align="center">⚡ About Me</h2>
@@ -61,6 +63,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=F87171&center=true&vCenter=true&width=450&height=50&lines=while(alive)+%7B+learn()%3B+build()%3B+repeat()%3B+%7D" alt="loop" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=3" width="100%" alt="divider" />
+</p>
+
 <!-- PROJECTS -->
 <h2 align="center">🚀 Projects</h2>
 
@@ -73,16 +79,9 @@
   </a>
 </p>
 
----
-
-<!-- TECH STACK -->
-<h2 align="center">🛠️ Tech Stack</h2>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,react,nodejs,mysql,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=3" width="100%" alt="divider" />
 </p>
-
----
 
 <!-- STATS -->
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -104,7 +103,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=praneshr09102007-arch&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=3" width="100%" alt="divider" />
+</p>
 
 <!-- QUOTE -->
 <p align="center">
@@ -113,5 +114,5 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,100:0a0a0a&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,50:7f1d1d,100:0a0a0a&height=140&section=footer&animation=twinkling" width="100%" alt="Footer" />
 </p>
