@@ -28,22 +28,25 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="60%" valign="top">
-
-```yaml
-name: Pranesh R
-from: Tamil Nadu
-studying: B.Tech CSE @ Lovely Professional University
-year: 2nd
-languages: [Python, C, C++, JavaScript]
-web: [HTML, CSS, Node.js, React]
-database: MySQL
-tools: [Git, GitHub, VS Code, Vibe Coding]
-```
-
-</td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=F87171&center=true&vCenter=true&width=260&height=80&lines=while(alive)%7B;+++learn()%3B;+++build()%3B;+++repeat()%3B;%7D" alt="loop" />
+    <td width="62%" valign="top">
+<pre>
+<b>pranesh@github</b>:~$ whoami
+Pranesh R
+────────────────────────────────────────
+<b>pranesh@github</b>:~$ cat about.txt
+from      : Tamil Nadu
+studying  : B.Tech CSE @ Lovely Professional University
+year      : 2nd
+languages : Python, C, C++, JavaScript
+web       : HTML, CSS, Node.js, React
+database  : MySQL
+tools     : Git, GitHub, VS Code, Vibe Coding
+────────────────────────────────────────
+<b>pranesh@github</b>:~$ _
+</pre>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=F87171&center=true&vCenter=true&width=260&height=100&lines=while(alive)%7B;+++learn()%3B;+++build()%3B;+++repeat()%3B;%7D" alt="loop" />
     </td>
   </tr>
 </table>
