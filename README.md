@@ -26,23 +26,39 @@
 <!-- ABOUT -->
 <h2 align="center">⚡ About Me</h2>
 
-<div align="center">
-
-| 🧑‍💻 Field | Details |
-|:--|:--|
-| 👤 **Name** | Pranesh R |
-| 📍 **From** | Tamil Nadu |
-| 🎓 **Studying** | B.Tech CSE @ Lovely Professional University |
-| 📅 **Year** | 2nd |
-| 💻 **Languages** | Python, C, C++, JavaScript |
-| 🌐 **Web** | HTML, CSS, Node.js, React |
-| 🗄️ **Database** | MySQL |
-| 🧰 **Tools** | Git, GitHub, VS Code, Vibe Coding |
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=600&color=EF4444&background=0A0A0AFF&vCenter=true&multiline=true&repeat=false&width=700&height=230&lines=%24+whoami;Pranesh+R+%F0%9F%91%8B;%24+cat+about.txt;From+%3A+Tamil+Nadu;Studying+%3A+B.Tech+CSE+%40+LPU+(2nd+Year);Stack+%3A+Python+%7C+C+%7C+C%2B%2B+%7C+JavaScript+%7C+React;%24+status;Learning+%26+Building+%F0%9F%9A%80" alt="Terminal" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=F87171&center=true&vCenter=true&width=400&height=60&lines=while(alive)+%7B+learn()%3B+build()%3B+repeat()%3B+%7D" alt="loop" />
+  <img src="https://img.shields.io/badge/📍_From-Tamil_Nadu-ef4444?style=for-the-badge&labelColor=0a0a0a" alt="From" />
+  <img src="https://img.shields.io/badge/🎓_Degree-B.Tech_CSE-ef4444?style=for-the-badge&labelColor=0a0a0a" alt="Degree" />
+  <img src="https://img.shields.io/badge/📅_Year-2nd-ef4444?style=for-the-badge&labelColor=0a0a0a" alt="Year" />
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <h4>💻 Languages</h4>
+      <img src="https://skillicons.dev/icons?i=py,c,cpp,js&theme=dark" alt="Languages" />
+    </td>
+    <td align="center" width="25%">
+      <h4>🌐 Web</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" alt="Web" />
+    </td>
+    <td align="center" width="25%">
+      <h4>🗄️ Database</h4>
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database" />
+    </td>
+    <td align="center" width="25%">
+      <h4>🧰 Tools</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=F87171&center=true&vCenter=true&width=450&height=50&lines=while(alive)+%7B+learn()%3B+build()%3B+repeat()%3B+%7D" alt="loop" />
 </p>
 
 <!-- PROJECTS -->
