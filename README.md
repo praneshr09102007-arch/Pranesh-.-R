@@ -1,7 +1,7 @@
 # PRANESH R.
 
 \<div align="center">
- 
+
 \<img width="100%" src="[https://capsule-render.vercel.app/api?type=venom&height=230&color=0:2A2A2A,50\:C0C0C0,100\:E10600&text=PRANESH%20R.&fontColor=2A2A2A&fontSize=58&fontAlignY=45&animation=fadeIn&stroke=E10600&strokeWidth=2](https://capsule-render.vercel.app/api?type=venom\&height=230\&color=0:2A2A2A,50\:C0C0C0,100\:E10600\&text=PRANESH%20R.\&fontColor=2A2A2A\&fontSize=58\&fontAlignY=45\&animation=fadeIn\&stroke=E10600\&strokeWidth=2)" />
 
 \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Creative+Problem+Solver;Exploring+Cloud+Technologies;Building+Innovative+Solutions;Experimenting+Beyond+Limits](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=21\&duration=3000\&pause=1000\&color=E10600\&center=true\&vCenter=true\&width=700\&lines=Aspiring+Software+Engineer;Creative+Problem+Solver;Exploring+Cloud+Technologies;Building+Innovative+Solutions;Experimenting+Beyond+Limits)" />
