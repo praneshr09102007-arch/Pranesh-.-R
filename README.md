@@ -1,83 +1,113 @@
-# Hi, I'm Pranesh R. 👋
+# Pranesh R. 🚀
 
-### Exploring Technology | Creating Innovative Solutions 🚀
+<div align="center">
 
-I'm a B.Tech student specializing in **CES Core**, passionate about software engineering, innovative technologies, and building solutions that make a difference.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,50:142850,100:5B21B6&text=PRANESH%20R.&fontColor=FFFFFF&fontSize=55&fontAlignY=45&animation=fadeIn&stroke=3B82F6&strokeWidth=1"/>
 
-I enjoy experimenting with new ideas, exploring different technologies, and turning creative concepts into practical applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Creative+Problem+Solver;Exploring+Cloud+%26+Web+Technologies;Building+Innovative+Solutions" alt="Typing SVG" />
+
+**Exploring Technology | Creating Innovative Solutions**
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Student — CES Core
-- 💡 Aspiring Software Engineer
+- 💻 Aspiring Software Engineer
 - 🌐 Interested in Web Development & Cloud Computing
 - 🤖 Exploring AI-powered applications
-- 🔬 Passionate about experimentation and innovation
-- 🎯 Focused on building creative solutions to real-world problems
+- 🔭 Passionate about experimenting with innovative ideas
+- 💡 I enjoy turning creative concepts into practical solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-**Programming Languages**
+### Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql&theme=dark"/>
+</p>
 
-**Tools & Platforms**
+### Tools & Development
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark"/>
+</p>
 
-**Cloud Technologies I'm Exploring**
+### Cloud Technologies
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark"/>
+</p>
 
 ---
 
 ## 🚀 Featured Project
 
-### 🌊 Aazhi — AI-Powered Disaster Prediction System
+<div align="center">
 
-An AI-powered cloud-based web application designed to help users understand and anticipate potential natural disasters.
+### 🌊 AAZHI
+**AI-Powered Disaster Monitoring & Prediction Platform**
 
-**Key Features:**
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:020617,100:1D4ED8&text=AAZHI%20%7C%20AI%20%2B%20SATELLITE&fontColor=FFFFFF&fontSize=25"/>
+
+</div>
+
+Aazhi is an AI-powered, cloud-based web application designed to help users explore and understand potential natural disasters through satellite imagery and AI-assisted insights.
+
+**Key Features**
+
 - 🛰️ Live satellite-view integration
-- 🤖 Gemini AI integration
-- 🌍 Disaster prediction and monitoring
+- 🤖 Google Gemini AI integration
+- 🌍 Disaster monitoring and prediction insights
 - ☁️ Cloud-based web application
-- ⚡ Designed to provide useful disaster-related insights
+- ⚡ Accessible through a web interface
 
-**Live Project:** [Explore Aazhi](https://project-aazhi.streamlit.app)
+**Technologies:** AI | Gemini | Cloud | Web Development | Satellite Imagery
 
----
+<div align="center">
 
-## 📊 GitHub Statistics
+<a href="https://project-aazhi.streamlit.app">
+<img src="https://img.shields.io/badge/🌐_EXPLORE_AAZHI-00BFFF?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praneshr09102007-arch&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praneshr09102007-arch&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=praneshr09102007-arch&theme=tokyonight&hide_border=true)
+</div>
 
 ---
 
-## 💭 My Philosophy
+## 📊 GitHub Analytics
 
-> "Don't just follow technology. Experiment with it, challenge it, and build something new."
+<div align="center">
 
-I believe innovation starts with curiosity and grows through experimentation.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=praneshr09102007-arch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneshr09102007-arch&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=praneshr09102007-arch&theme=tokyonight&hide_border=true&background=050816"/>
+
+</div>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and projects.*
+## 🌌 My Philosophy
+
+<div align="center">
+
+*"Think beyond limits. Experiment without fear. Build something extraordinary."*
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my GitHub profile! 👨‍🚀
+
+**Keep Exploring. Keep Experimenting. Keep Building.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:142850,100:5B21B6&height=110&section=footer"/>
+
+</div>
