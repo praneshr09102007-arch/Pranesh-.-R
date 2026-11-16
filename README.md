@@ -1,4 +1,4 @@
-# Pranesh R. 🚀
+**# Pranesh R. 🚀
 
 \<div align="center">
 
@@ -125,3 +125,4 @@ I believe innovation begins with curiosity and grows through experimentation.
 \<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:080610,50:4C1D95,100\:BE185D&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:080610,50:4C1D95,100\:BE185D\&height=120\&section=footer)" />
 
 \</div>
+**
