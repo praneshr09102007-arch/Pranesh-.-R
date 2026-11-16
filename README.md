@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,50:142850,100:5B21B6&text=PRANESH%20R.&fontColor=FFFFFF&fontSize=55&fontAlignY=45&animation=fadeIn&stroke=3B82F6&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:080610,50:4C1D95,100:BE185D&text=PRANESH%20R.&fontColor=FFFFFF&fontSize=58&fontAlignY=45&animation=fadeIn&stroke=E879F9&strokeWidth=1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Creative+Problem+Solver;Exploring+Cloud+%26+Web+Technologies;Building+Innovative+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=E879F9&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Creative+Problem+Solver;Exploring+Cloud+%26+Web+Technologies;Building+Innovative+Solutions;Experimenting+Beyond+Limits" alt="Typing SVG" />
 
-**Exploring Technology | Creating Innovative Solutions**
+### Exploring Technology | Creating Innovative Solutions
 
 </div>
 
@@ -18,30 +18,33 @@
 - 💻 Aspiring Software Engineer
 - 🌐 Interested in Web Development & Cloud Computing
 - 🤖 Exploring AI-powered applications
-- 🔭 Passionate about experimenting with innovative ideas
-- 💡 I enjoy turning creative concepts into practical solutions.
+- 🔬 Passionate about experimentation and innovation
+- 💡 I enjoy turning creative ideas into practical solutions.
+- 🚀 Always curious about new technologies and possibilities.
 
 ---
 
 ## ⚡ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql&theme=dark"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" />
 </p>
 
-### Tools & Development
+### 🛠️ Tools & Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
 </p>
 
-### Cloud Technologies
+### ☁️ Cloud Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
 </p>
+
+**Also exploring:** SQL
 
 ---
 
@@ -49,14 +52,13 @@
 
 <div align="center">
 
-### 🌊 AAZHI
-**AI-Powered Disaster Monitoring & Prediction Platform**
-
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:020617,100:1D4ED8&text=AAZHI%20%7C%20AI%20%2B%20SATELLITE&fontColor=FFFFFF&fontSize=25"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:080610,50:4C1D95,100:BE185D&text=AAZHI&fontColor=FFFFFF&fontSize=45&animation=fadeIn" />
 
 </div>
 
-Aazhi is an AI-powered, cloud-based web application designed to help users explore and understand potential natural disasters through satellite imagery and AI-assisted insights.
+### 🌊 AAZHI — AI-Powered Disaster Prediction System
+
+An AI-powered, cloud-based web application designed to help users understand potential natural disasters through satellite imagery and AI-assisted insights.
 
 **Key Features**
 
@@ -64,14 +66,14 @@ Aazhi is an AI-powered, cloud-based web application designed to help users explo
 - 🤖 Google Gemini AI integration
 - 🌍 Disaster monitoring and prediction insights
 - ☁️ Cloud-based web application
-- ⚡ Accessible through a web interface
+- ⚡ Web-based accessibility
 
 **Technologies:** AI | Gemini | Cloud | Web Development | Satellite Imagery
 
 <div align="center">
 
 <a href="https://project-aazhi.streamlit.app">
-<img src="https://img.shields.io/badge/🌐_EXPLORE_AAZHI-00BFFF?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_AAZHI-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
 
 </div>
@@ -82,11 +84,29 @@ Aazhi is an AI-powered, cloud-based web application designed to help users explo
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=praneshr09102007-arch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=praneshr09102007-arch&show_icons=true&theme=tokyonight&title_color=E879F9&icon_color=C084FC&text_color=E5E7EB&bg_color=080610&hide_border=true&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneshr09102007-arch&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneshr09102007-arch&layout=compact&theme=tokyonight&title_color=E879F9&text_color=E5E7EB&bg_color=080610&hide_border=true" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=praneshr09102007-arch&theme=tokyonight&hide_border=true&background=050816"/>
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=praneshr09102007-arch&theme=tokyonight&hide_border=true&background=080610&ring=E879F9&fire=C084FC&currStreakLabel=E879F9&sideLabels=E5E7EB&dates=A78BFA" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pranesh301/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-E879F9?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/_pranzxh_/?hl=en">
+<img src="https://img.shields.io/badge/Instagram-Follow-C084FC?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
@@ -96,7 +116,9 @@ Aazhi is an AI-powered, cloud-based web application designed to help users explo
 
 <div align="center">
 
-*"Think beyond limits. Experiment without fear. Build something extraordinary."*
+### "Think beyond limits. Experiment without fear. Build something extraordinary."
+
+I believe innovation begins with curiosity and grows through experimentation.
 
 </div>
 
@@ -104,10 +126,10 @@ Aazhi is an AI-powered, cloud-based web application designed to help users explo
 
 <div align="center">
 
-### Thanks for visiting my GitHub profile! 👨‍🚀
+### 👨‍🚀 Thanks for visiting my GitHub profile!
 
 **Keep Exploring. Keep Experimenting. Keep Building.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:142850,100:5B21B6&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080610,50:4C1D95,100:BE185D&height=120&section=footer" />
 
 </div>
