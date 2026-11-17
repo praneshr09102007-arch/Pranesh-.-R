@@ -1,128 +1,76 @@
-**# Pranesh R. 🚀
+<div align="center">
 
-\<div align="center">
+# Hi, I'm Pranesh 👋
 
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=venom&height=230&color=0:080610,50:4C1D95,100\:BE185D&text=PRANESH%20R.&fontColor=FFFFFF&fontSize=58&fontAlignY=45&animation=fadeIn&stroke=E879F9&strokeWidth=1](https://capsule-render.vercel.app/api?type=venom\&height=230\&color=0:080610,50:4C1D95,100\:BE185D\&text=PRANESH%20R.\&fontColor=FFFFFF\&fontSize=58\&fontAlignY=45\&animation=fadeIn\&stroke=E879F9\&strokeWidth=1)" />
+**B.Tech CSE Student · Lovely Professional University**
+*Building clean, practical software from Tamil Nadu*
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=E879F9&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Creative+Problem+Solver;Exploring+Cloud+%26+Web+Technologies;Building+Innovative+Solutions;Experimenting+Beyond+Limits](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=21\&duration=3000\&pause=1000\&color=E879F9\&center=true\&vCenter=true\&width=700\&lines=Aspiring+Software+Engineer;Creative+Problem+Solver;Exploring+Cloud+%26+Web+Technologies;Building+Innovative+Solutions;Experimenting+Beyond+Limits)" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=111111&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+the+making;Python+%7C+JavaScript+%7C+React;Turning+ideas+into+products)](https://git.io/typing-svg)
 
-### Exploring Technology | Creating Innovative Solutions
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pranesh-profile.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-444444?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranesh301/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-888888?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_pranzxh_)
 
-\</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech Student — CES Core
-- 💻 Aspiring Software Engineer
-- 🌐 Interested in Web Development & Cloud Computing
-- 🤖 Exploring AI-powered applications
-- 🔬 Passionate about experimentation and innovation
-- 💡 I enjoy turning creative ideas into practical solutions.
-- 🚀 Always curious about new technologies and possibilities.
+</div>
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 About Me
 
-### 💻 Programming Languages
-
-\<p align="left"> \<img src="[https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark](https://skillicons.dev/icons?i=c,cpp,python,js,html,css\&theme=dark)" /> \</p>
-
-### 🛠️ Tools & Development
-
-\<p align="left"> \<img src="[https://skillicons.dev/icons?i=vscode,git,github&theme=dark](https://skillicons.dev/icons?i=vscode,git,github\&theme=dark)" /> \</p>
-
-### ☁️ Cloud Technologies
-
-\<p align="left"> \<img src="[https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark](https://skillicons.dev/icons?i=aws,azure,gcp\&theme=dark)" /> \</p>
-
-**Also exploring:** SQL
+- 🎓 Pursuing **B.Tech in Computer Science Engineering** at Lovely Professional University
+- 💻 Passionate about **web development**, **problem solving**, and **building projects that matter**
+- 🎯 Focused on strong fundamentals and real-world projects
 
 ---
 
-## 🚀 Featured Project
+## 🛠️ Tech Stack
 
-\<div align="center">
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js&theme=light" />
+</p>
 
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=rect&height=110&color=0:080610,50:4C1D95,100\:BE185D&text=AAZHI&fontColor=FFFFFF&fontSize=45&animation=fadeIn](https://capsule-render.vercel.app/api?type=rect\&height=110\&color=0:080610,50:4C1D95,100\:BE185D\&text=AAZHI\&fontColor=FFFFFF\&fontSize=45\&animation=fadeIn)" />
+**Frontend & Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=light" />
+</p>
 
-\</div>
-
-### 🌊 AAZHI — AI-Powered Disaster Prediction System
-
-An AI-powered, cloud-based web application designed to help users understand potential natural disasters through satellite imagery and AI-assisted insights.
-
-**Key Features**
-
-- 🛰️ Live satellite-view integration
-- 🤖 Google Gemini AI integration
-- 🌍 Disaster monitoring and prediction insights
-- ☁️ Cloud-based web application
-- ⚡ Web-based accessibility
-
-**Technologies:** AI | Gemini | Cloud | Web Development | Satellite Imagery
-
-\<div align="center">
-
-\<a href="[https://project-aazhi.streamlit.app](https://project-aazhi.streamlit.app)"> \<img src="[https://img.shields.io/badge/EXPLORE_AAZHI-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/EXPLORE_AAZHI-8B5CF6?style=for-the-badge\&logo=streamlit\&logoColor=white)" /> \</a>
-
-\</div>
+**Database & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=light" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-\<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=omni&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=FFFFFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=omni&hide_border=true&title_color=111111&text_color=444444&bg_color=FFFFFF" />
+</p>
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=praneshr09102007-arch&show_icons=true&theme=tokyonight&title_color=E879F9&icon_color=C084FC&text_color=E5E7EB&bg_color=080610&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=praneshr09102007-arch\&show_icons=true\&theme=tokyonight\&title_color=E879F9\&icon_color=C084FC\&text_color=E5E7EB\&bg_color=080610\&hide_border=true\&include_all_commits=true)" />
-
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=praneshr09102007-arch&layout=compact&theme=tokyonight&title_color=E879F9&text_color=E5E7EB&bg_color=080610&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=praneshr09102007-arch\&layout=compact\&theme=tokyonight\&title_color=E879F9\&text_color=E5E7EB\&bg_color=080610\&hide_border=true)" />
-
-\<br/>
-
-\<img width="70%" src="[https://streak-stats.demolab.com?user=praneshr09102007-arch&theme=tokyonight&hide_border=true&background=080610&ring=E879F9&fire=C084FC&currStreakLabel=E879F9&sideLabels=E5E7EB&dates=A78BFA](https://streak-stats.demolab.com?user=praneshr09102007-arch\&theme=tokyonight\&hide_border=true\&background=080610\&ring=E879F9\&fire=C084FC\&currStreakLabel=E879F9\&sideLabels=E5E7EB\&dates=A78BFA)" />
-
-\</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=omni&hide_border=true&background=FFFFFF&stroke=111111&ring=111111&fire=444444&currStreakLabel=111111" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌱 Currently
 
-\<div align="center">
-
-\<a href="[https://www.linkedin.com/in/pranesh301/](https://www.linkedin.com/in/pranesh301/)">
-\<img src="[https://img.shields.io/badge/LinkedIn-Connect-E879F9?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-E879F9?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-\</a>
-
-\<a href="[https://www.instagram.com/\_pranzxh\_/?hl=en](https://www.instagram.com/_pranzxh_/?hl=en)">
-\<img src="[https://img.shields.io/badge/Instagram-Follow-C084FC?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-Follow-C084FC?style=for-the-badge\&logo=instagram\&logoColor=white)" />
-\</a>
-
-\</div>
+- 🔭 Building full-stack projects with React and Node.js
+- 📚 Strengthening DSA and core CS fundamentals
+- ⚡ Exploring AI-assisted development workflows
 
 ---
 
-## 🌌 My Philosophy
+## 📫 Let's Connect
 
-\<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-pranesh--profile.lovable.app-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://pranesh-profile.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranesh301-444444?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranesh301/)
+[![Instagram](https://img.shields.io/badge/Instagram-_pranzxh_-888888?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_pranzxh_)
 
-### "Think beyond limits. Experiment without fear. Build something extraordinary."
+<div align="center">
 
-I believe innovation begins with curiosity and grows through experimentation.
+⭐ *Thanks for visiting my profile!* ⭐
 
-\</div>
-
----
-
-\<div align="center">
-
-### 👨‍🚀 Thanks for visiting my GitHub profile!
-
-**Keep Exploring. Keep Experimenting. Keep Building.**
-
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:080610,50:4C1D95,100\:BE185D&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:080610,50:4C1D95,100\:BE185D\&height=120\&section=footer)" />
-
-\</div>
-**
+</div>
